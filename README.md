@@ -7,6 +7,6 @@ The objective is to clear the on screen grid of as many X's as possible. This is
 X's are only able to move if there is an O in between the starting point and the destination and you can enter these points
 as coordinates. 
 
-[Assignment][]
+The assignment can be found [here][].
 
-[assignment]:https://www.cs.drexel.edu/~mcs172/Sp14/assignments/HW4/index.html#Prog
+[here]:https://www.cs.drexel.edu/~mcs172/Sp14/assignments/HW4/index.html#Prog
